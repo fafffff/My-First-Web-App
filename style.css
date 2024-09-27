@@ -96,3 +96,8 @@ p {
   text-align: start;
   font-size: 50px;
 }
+@media (max-width: 200px) {
+  p {
+    font-size: x-small;
+  }
+}
